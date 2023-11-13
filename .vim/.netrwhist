@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/serhii/Desktop/project_travelpriceoff/server/deal'
+let g:netrw_dirhist_5='/Users/serhii/.vim'
+let g:netrw_dirhist_4='/Users/serhii/.vim/plugged/coc.nvim'
+let g:netrw_dirhist_3='/Users/serhii/.vim/plugged'
+let g:netrw_dirhist_2='/Users/serhii/.vim'
+let g:netrw_dirhist_1='/Users/serhii/.vim/customisation'
+let g:netrw_dirhist_0='/Users/serhii/.vim'
+let g:netrw_dirhist_9='/Users/serhii/Desktop/testwp'
+let g:netrw_dirhist_8='/Users/serhii/Desktop/testwp/client'
+let g:netrw_dirhist_7='/Users/serhii/Desktop/testwp'
